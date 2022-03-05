@@ -27,7 +27,7 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
       <a href="https://www.postgresql.org/" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45"  height ="45" alt="postgresql"/> </a>
   
-    <a href="https://expressjs.com" target="_blank"><img alt="Express.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/></a>
+    <a href="https://expressjs.com" target="_blank"><img alt="Express.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
      <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/> </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
     <a href="https://github.com/kratos2377/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shobhit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kratos2377&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shobhit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kratos2377&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
     </a>
 </p>
 
@@ -44,7 +44,7 @@
 
   <br/>
     <a href="https://github.com/kratos2377/github-readme-stats"><img alt="Shobhit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kratos2377&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kratos2377/github-readme-stats"><img alt="Tanuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratos2377&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/kratos2377/github-readme-stats"><img alt="Shobhit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratos2377&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/kratos2377/github-readme-activity-graph"><img alt="Tanuj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kratos2377&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/kratos2377/github-readme-activity-graph"><img alt="Shobhit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kratos2377&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
