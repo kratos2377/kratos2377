@@ -27,7 +27,8 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
       <a href="https://www.postgresql.org/" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45"  height ="45" alt="postgresql"/> </a>
   
-    <a href="https://expressjs.com" target="_blank"><img alt="Express.Js" src=""/></a>
+<br/>
+        <a href="https://expressjs.com" target="_blank"><img alt="Express.Js" src=""/></a>
      <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/> </a>
 </p>
 
