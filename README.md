@@ -23,6 +23,8 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"             alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+        <a href="https://soliditylang.org/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg" alt="solidity" width="45" height="45"/> </a>  
+            <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="45" height="45"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
       <a href="https://www.postgresql.org/" target="_blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="45"  height ="45" alt="postgresql"/> </a>
