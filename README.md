@@ -40,24 +40,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kratos2377&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/kratos2377/github-readme-stats"><img alt="Shobhit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kratos2377&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/kratos2377/github-readme-stats"><img alt="Shobhit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratos2377&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/kratos2377/github-readme-activity-graph"><img alt="Shobhit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kratos2377&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
